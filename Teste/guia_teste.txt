@@ -1,0 +1,1 @@
+Esta pasta deve conter: Relatorio de evidência de teste, plano de teste.
